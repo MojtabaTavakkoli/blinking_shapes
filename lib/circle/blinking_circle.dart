@@ -1,4 +1,4 @@
-import 'package:blinking_shapes/circle//circle.dart';
+import 'package:blinking_shapes/circle/circle.dart';
 import 'package:flutter/material.dart';
 
 class BlinkingCircle extends StatefulWidget {
